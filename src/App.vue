@@ -2,8 +2,8 @@
   <div>
     <h3>
       {{ msg }}
-      <Contact></Contact>
     </h3>
+    <Contact></Contact>
   </div>
 </template>
 
